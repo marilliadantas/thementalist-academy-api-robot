@@ -22,6 +22,12 @@ Esse projeto foi proposto pelo Academy da instuituição Qa.Coders. O nosso obje
 ```bash
 https://github.com/marilliadantas/thementalist-academy-api-robot
 ```
+
+### 💻 Instalando o Robot Framework
+```bash
+pip install robotframework
+```
+
 ### 📚 Instalando as Libraries Recomendadas
 <h5>*Requests*</h5>
 
